@@ -24,6 +24,7 @@ In author opinion, low life expectancy in Tibetan Plateau was driven by many fac
 
 
 **2.Labasangzhu, E Bjertness, EB McNeil, Deji, Y Guo(2018). Progress and challenges in improving maternal health in the Tibet Autonomous Region, China, Published online 2018 Nov 14.**
+URLhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC6241686/
 
 This resource is a research paper that aims to study the health care system in Tibet, with a special focus on high mortality rate. Authors studied the government policies and regulations and retrieved data  from other published articles. Authors first pointed out the health care spending has been dramatically increasing since 2000. "Public health spending in Tibet increased 67-fold, the hospital delivery rate increased 70.1%, and the MMR dropped from 466.9 to 100.1 per 100,000 live births". Even the government spending has increased many times, the number of health workers including medical doctors, registered nurse are still much lower than the national average, respectively are only 4.4, 1.4 in 1,000 people. Nevertheless, the medical resources in Tibet area is also much lower than other areas in China. Author used an example of emergency obstetric care in Tibet. According to emergency obstetric care (EOC) criteria, "Tibet’s 74 county hospitals barely meet the standard of basic EOC. The prefecture (city) hospital and referral hospitals provide comprehensive EOC. Thus, there are about 12 EOC facilities and two comprehensive EOC for every 500,000 population, which merely meets the WHO’s minimum standard for EOC".([Labasangzhu](https://www.ncbi.nlm.nih.gov/pubmed/?term=Labasangzhu [Author]&cauthor=true&cauthor_uid=30532605)) 
 
@@ -46,7 +47,7 @@ Most of Tibetan people believe spirit is one of the most important things out of
 
 
 **4.Nancy S Harris, Patrick B Crawford, Yeshe Yangzom(2001) Nutritional and Health Status of Tibetan Children Living at High Altitude February 1, 2001** **N Engl J Med 2001; 344:341-347 DOI:10.1056/NEJM200102013440504**
-
+URL:https://www.nejm.org/doi/full/10.1056/NEJM200102013440504
 
 
 
@@ -62,6 +63,7 @@ In this article, authors studied the situation of nutritional and heal status fo
 
 
 **5.Theresia Hofer(2008). Socio-Economic Dimensions of Tibetan Medicine in the Tibet Autonomous Region, China. Brill.nl Asian Medicine 4 (2008) 492–514****
+URL:https://brill.com/view/journals/asme/4/2/article-p492_10.xml?language=en
 
 In the article, author researched the contemporary Tibetan medical practices in rural area from socio-economic dimensions, evaluate the value of traditional Tibetan medicine under the influence of  mainstream biomedicine and assessed how the Tibetan medicine impacts Tibetan residents and medical professionals nowadays. Author firstly defined Tibetan medicine, which is "the inheritor of what in Tibetan has been traditionally referred to as Sowa Rigpa or ‘Science of Healing’",(Theresia Hofer) it is largely available and accessible in big cities such as Lhasa, the capital of the Tibet autonomous Region, but it is hard to have access and to be able to afford in rural areas on the contrary.
 
